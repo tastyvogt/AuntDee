@@ -1,0 +1,24 @@
+body {
+    background-color: brown;
+
+}
+
+h1 {
+    color: white;
+    font-size: 128;
+    margin: auto;
+}
+
+#nuts {
+    margin: auto;
+    width: 200px;
+    height: 200px;
+}
+
+#aunt {
+    float: right;
+}
+
+#goteem_img {
+    float: right;
+}
